@@ -10,7 +10,7 @@ This repository contains all backend code for the v2 backend protocol; v2 ERC20 
   
 - [GogeDao](./src/GogeDao.sol) - This contract is Goge's Governance contract which manages the token contract and all voting and governance functionality which is carried out from a front end voting system, also managed by this contract.
 
-- [![Whitepaper](https://goge-dao.gitbook.io/goge-dao-whitepaper-v1/dao-functions)] - View the GogeDao whitepaper 
+- [[Whitepaper](https://goge-dao.gitbook.io/goge-dao-whitepaper-v1/dao-functions)] - View the GogeDao whitepaper 
 
 **NOTE:** This testing and development framework uses [foundry](https://github.com/dapphub/dapptools), a blazing fast, portable and modular toolkit for Ethereum application development written in Rust, built on top of dapp tools.
 
